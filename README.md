@@ -5,7 +5,7 @@ Game of lights and sounds in which players must repeat random sequences of light
 
 
 ## Link to deployed Simon Game: 
-https://johnnyweak1.github.io/HtmlCssJsScripting-SimonGame/t
+https://johnnyweak1.github.io/HtmlCssJsScripting-SimonGame/
 ## Author
 
 - [@johnnyweak1](https://www.github.com/johnnyweak1)
